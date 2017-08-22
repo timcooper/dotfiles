@@ -1,0 +1,42 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".vagrant"
+	],
+	"font_face": "Fira Code",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"margin": 0,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"show_panel_on_build": false,
+	"tab_size": 4,
+	"theme": "Agila.sublime-theme",
+	"theme_agila_compact_tab": true,
+	//"theme_agila_camouflage_semi": true,
+	"theme_agila_compact_sidebar": true,
+	"theme_agila_sidebar_font_xsmall": true,
+	"theme_agila_sidebar_small": true,
+	"translate_tab_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
